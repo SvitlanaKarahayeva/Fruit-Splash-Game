@@ -10,7 +10,7 @@ body {
 .main-body {
     height: 100vh;
     padding-top: 3px;
-    background: url("/img/body.png");
+    background: url("img/body.png");
     background-size: cover;
     display: flex;
     flex-direction: column;
