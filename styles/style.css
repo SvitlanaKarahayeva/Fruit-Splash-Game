@@ -1,0 +1,283 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-body {
+    height: 100vh;
+    padding-top: 3px;
+    background: url(/styles/img/body.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Hidden info box styling */
+/* main body in blury mode*/
+
+.main-body#blur.active {
+    filter: blur(20px);
+    pointer-events: none;
+}
+
+.info-boxes {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* centers the info box */
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+    border-radius: 10px;
+    z-index: 10;
+    background-color: white;
+    max-width: 600px;
+    max-height: 600px;
+    box-shadow: 0 5px 30px rgba(0, 0, 0, .30);
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5s;
+    overflow: scroll;
+}
+
+.info-header {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.info-header .info-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.info-header .info-close-btn {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: orangered;
+}
+
+.info-boxes .info-body {
+    padding: 10px 15px;
+}
+
+/* Info-boxes active mode */
+
+#info-boxes.active {
+    top: 50%;
+    visibility: visible;
+    opacity: 1;
+    transition: 0.5s;
+}
+
+/* Info-box rows and images styling */
+
+.intro {
+    font-size: 15px;
+    margin-bottom: 20px;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+#win-points-header,
+#losing-points-header {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 10px;
+    text-align: center
+}
+
+/* Small img in the intro discription */
+
+.small-pics-div {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.small-imgs {
+    height: 50px;
+    width: 50px;
+}
+
+/* win and lose pic combinations */
+
+.rows {
+    display: flex;
+    flex-direction: row;
+    margin: 1em;
+}
+
+.info-box-img {
+    width: 60px;
+    height: 60px;
+}
+
+.win-loose-div {
+    font-size: 30px;
+    margin: auto;
+}
+
+/* Heading H1 */
+h1 {
+    margin-top: -100px;
+    padding: 10px 300px;
+    font-size: 40px;
+    color: black;
+    border-radius: 40%;
+    /* styling rainbow h1 background */
+    background-repeat: repeat-x;
+    background: linear-gradient(to right, #eb5252, #f78f2f, #f4c151, #75d850, #6284FF, #eb5252);
+    animation: rainbow 10s linear infinite;
+    background-size: 200% 100%;
+    opacity: 0.7; 
+}
+
+@keyframes rainbow {
+    0% {
+        background-position: 0;
+    }
+    100% {
+        background-position: 800% 0;
+    }
+}
+
+/* Start sign and start button */
+
+.start,
+.instructions { 
+    text-align: center;
+    
+}
+
+.btn {
+    font-family: 'Acme', sans-serif;
+    margin-bottom: 10px;
+}
+
+#start-btn {
+
+    font-size: 20px;
+    background-color: green;
+    border-radius: 40%;
+    padding: 7px;
+    cursor: pointer;
+    box-shadow: greenyellow;
+    color: white;
+    margin-top: -30px;
+}
+
+/* Result announcer */
+#instruct-btn{
+    /* text-align: center; */
+    font-size: 20px;
+    background-color: grey;
+    border-radius: 10%;
+    padding: 1px;
+    cursor: pointer;
+    box-shadow: greenyellow;
+    color: white;
+}
+
+.result-announcer {
+
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.hide {
+    display: none;
+}
+
+#machine-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 700px;
+    max-height: 700px;
+    border-radius: 30%;
+    background-image: linear-gradient(180deg, red, orange, yellow, olive);
+}
+
+#machine {
+    margin: 30px;
+    height: 80%;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-image: linear-gradient(180deg, red, orange, yellow,);
+    border-radius: 50%
+   
+}
+
+#machine .reels {
+    width: 200px;
+    height: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 250%;
+    border-color:rgba(0, 0, 0, .30);
+}
+
+img {
+    height: 60%;
+    width: 60%;
+}
+
+.total-points-and-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 20px;
+}
+
+#play-btn{
+    background-color: rgb(13, 119, 138);
+    padding: 0.3em 1.2em;
+    border-radius: 2em;
+    color: #FFFFFF;
+    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+    text-align: center;
+    transition: all 0.2s;
+    font-size: 20px;
+    cursor: pointer;
+}
+#play-btn:hover{
+    border-color: rgb(107, 243, 209);
+    box-shadow: grey;
+
+}
+
+#play-btn:disabled {
+    cursor: not-allowed;
+    background-color:rgb(168, 216, 219)
+}
+
+#total-points {
+    background-color: silver;
+    text-align: center;
+    margin-right: 50px;
+    font-size: 30px;
+    width: 70px;
+    padding: 10px;
+}
