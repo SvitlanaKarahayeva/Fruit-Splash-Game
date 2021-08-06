@@ -12,7 +12,7 @@ Pioneered by Charles Fey, his device, known as the Liberty Bell, features the fa
 
 I wanted to make something fun, entertaining and colirful for my ten-year old niece Sabrina:)  
 
-## Fruit Splash game explanation and rules. 
+## Fruity instruction and rules
 >
 It is a one-line slot machine that has 8 images that help player either win or lose. 6 types of Fruits  will be playing in both cases, however **Treasure box** - is only for wins and **Unlucky Dollar Sign**- for losing combinations.
 The game has instructions that clearly illustrate the winning and losing combinations as well as Jackpot and Game Over matches.
@@ -27,12 +27,12 @@ The infomation dispaly guides the player on the next steps and the game results.
   
   Below are some images of The Game in action:  
   
-  (https://imgur.com/PyEHp9V)
+  !(https://imgur.com/PyEHp9V)
    
   >
-  (https://imgur.com/WARh7Ns)
+  !(https://imgur.com/WARh7Ns)
   >
-  (https://imgur.com/mcFAIjF)
+  !(https://imgur.com/mcFAIjF)
   >
-  (https://imgur.com/akJjBCx) (https://imgur.com/jFlJDFB) (https://imgur.com/3m5PrZD)
+  !(https://imgur.com/akJjBCx) !(https://imgur.com/jFlJDFB) !(https://imgur.com/3m5PrZD)
   
