@@ -27,7 +27,7 @@ The infomation dispaly guides the player on the next steps and the game results.
   
   Below are some images of The Game in action:  
   
-  !(https://i.imgur.com/PyEHp9V.png)
+  ![](https://i.imgur.com/PyEHp9V.png)
    
   >
   !(https://imgur.com/WARh7Ns)
