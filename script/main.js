@@ -17,9 +17,9 @@ const fruitSplash = {
     instructBtn: document.getElementById('instruct-btn'),
     machine: document.getElementById('machine'),
 
-    welcomeSound: new Audio('/styles/sounds/welcome.mp3'),
+    welcomeSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/welcome.mp3'),
     jackpotSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/jackpotsound.wav'),
-    winningPointsSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/pluspoints.wav'),
+    winningPointsSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/pluspoints.mp3'),
     losingPointsSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/minuspoints.wav'),
     spinAudio: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/spin.mp3'),
     gameOverSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/game-over.mp3'),
