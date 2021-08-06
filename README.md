@@ -17,17 +17,17 @@ I wanted to make something fun, entertaining and colirful for my ten-year old ni
 It is a one-line slot machine that has 8 images that help player either win or lose. 6 types of Fruits  will be playing in both cases, however **Treasure box** - is only for wins and **Unlucky Dollar Sign**- for losing combinations.
 The game has instructions that clearly illustrate the winning and losing combinations as well as Jackpot and Game Over matches.
 The infomation dispaly guides the player on the next steps and the game results.
-  1.The Game starts with granting Player 25 points. Each play costs 1 point
-  2.Then Player is instructed to learn and review about the posible matches of Fruits, Tresure box and Dollar Sign.
-  3.Once the Play button is activated that's when the fun part starts - the player starts spinning reels.
-  4.The Game ends if Player gets Jackpot, Game Over combination, or runs out of points.
+  1. The Game starts with granting Player 25 points. Each play costs 1 point
+  2. Then Player is instructed to learn and review about the posible matches of Fruits, Tresure box and Dollar Sign.
+  3. Once the Play button is activated that's when the fun part starts - the player starts spinning reels.
+  4. The Game ends if Player gets Jackpot, Game Over combination, or runs out of points.
   5. Winning combinations help Player to win 5, 10 or 15 points to the total score.
   6. Losing combinations deduct 2 or 5 points from the score.
   7. At any point of the game Player can restart it and update the score with 25 points.
   
   Below are some images of The Game in action:  
   
-  !(https://imgur.com/PyEHp9V)
+  !(https://i.imgur.com/PyEHp9V.png)
    
   >
   !(https://imgur.com/WARh7Ns)
