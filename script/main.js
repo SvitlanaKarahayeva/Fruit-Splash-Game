@@ -17,12 +17,12 @@ const fruitSplash = {
     instructBtn: document.getElementById('instruct-btn'),
     machine: document.getElementById('machine'),
 
-    welcomeSound: new Audio('../styles/sounds/welcome.mp3'),
+    welcomeSound: new Audio('/styles/sounds/welcome.mp3'),
     jackpotSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/jackpotsound.wav'),
     winningPointsSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/pluspoints.wav'),
     losingPointsSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/minuspoints.wav'),
     spinAudio: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/spin.mp3'),
-    gameOverSound: new Audio('.https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/game-over.mp3'),
+    gameOverSound: new Audio('https://svitlanakarahayeva.github.io/Fruit-Splash-Game/styles/sounds/game-over.mp3'),
 
    /* Numbers that represent each image that playes, these numbers will be used for comparison 
     1 - Treasure Box
