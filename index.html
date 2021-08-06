@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- font for button text -->
+    <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Slot Machine</title>
+</head>
+
+<body>
+    <!--Info box- hidden box with instrunctions that pops up when clicking "Start btn"-->
+    <section class="info-boxes" id="info-boxes">
+
+        <div class="info-header">
+            <div class="info-title">Instructions</div>
+            <button class="info-close-btn">&times;</button>
+        </div>
+
+        <div class="info-body">
+            <div class="intro">You are given 25 points to start.
+                Each play costs 1 point. Your game continues until you either get "Jackpot", "Game Over" combinations or run out of the points. The play button will be unactive.
+                You can always press "Start" to refresh your game. Bellow you will see your winning and loosing
+                combinations. Please keep in mind that image -
+                <span><img src="styles/img/fruits.png" alt="" class="small-imgs">
+                    is not the part of the game, it represents 6 fruits in the instructions that can be randomly chosen
+                    during the game:
+                    <div class="small-pics-div">
+                        <span><img src="styles/img/img2.png" alt="" class="small-imgs"></span>
+                        <span><img src="styles/img/img3.png" alt="" class="small-imgs"></span>
+                        <span><img src="styles/img/img4.png" alt="" class="small-imgs"></span>
+                        <span><img src="styles/img/img5.png" alt="" class="small-imgs"></span>
+                        <span><img src="styles/img/img6.png" alt="" class="small-imgs"></span>
+                        <span><img src="styles/img/img7.png" alt="" class="small-imgs"></span>
+                    </div>
+            </div>
+
+            <!-- Container for all the divs with pictures -->
+            <div class="container">
+                <div id="win-points-header" style="background-color: greenyellow; color: black;">WINNING COMBOs</div>
+                <!-- Treasure boxes for Jackpot -->
+                <div class="rows">
+                    <div><img src="styles/img/img1.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img1.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img1.png" alt="" class="info-box-img"></div>
+                    <div class="win-loose-div" style="color: green">JACKPOT</div>
+                </div>
+                <!-- Treasure boxes for +5 points -->
+                <div class="rows">
+                    <div><img src="styles/img/img1.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img1.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div class="win-loose-div">+5 points</div>
+                </div>
+
+                <!-- Pine apple double-match for +5 points -->
+                <div class="rows">
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img6.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img6.png" alt="" class="info-box-img"></div>
+                    <div class="win-loose-div">+10 points</div>
+                </div>
+
+                <!-- Tripple match of any fruit for + 10 points -->
+                <div style="font-size: 25px; margin: 10px; text-decoration: underline;">Tripple match of any fruit</div>
+                <div class="rows">
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div class="win-loose-div">+15 points</div>
+                </div>
+
+                <div id="losing-points-header" style="background-color:coral; color: ivory;">LOSING COMBOs</div>
+                <!-- Tripple dollar signs for GAME OVER -->
+                <div class="rows">
+                    <div><img src="styles/img/img8.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img8.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img8.png" alt="" class="info-box-img"></div>
+                    <div class="win-loose-div" style="color: orangered;">GAME OVER</div>
+                </div>
+
+
+                <!-- One Dollar sign at any position for -2 points-->
+
+                <!-- Dollar sign + Fruit + Fruit -->
+                <div class="rows">
+                    <div><img src="styles/img/img8.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div class="win-loose-div">-2 points</div>
+                </div>
+                <!-- Fruit + Dollar sign + Fruit -->
+                <div class="rows">
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img8.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div class="win-loose-div">-2 points</div>
+                </div>
+                <!-- Fruit + Fruit + Dollar Sign -->
+                <div class="rows">
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img8.png" alt="" class="info-box-img"></div>
+                    <spdivan class="win-loose-div">-2 points</spdivan>
+                </div>
+
+                <!-- Dollar signs first and last for - 5 points -->
+                <div class="rows">
+                    <div><img src="styles/img/img8.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/fruits.png" alt="" class="info-box-img"></div>
+                    <div><img src="styles/img/img8.png" alt="" class="info-box-img"></div>
+                    <div class="win-loose-div">-5 points</div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- Body -->
+    <main class="main-body" id="blur">
+        <section class="welcome">
+            <h1>Fruit Splash</h1>
+        </section>
+
+        <!-- Start-the-game button -->
+        <section class="start">
+            <button id="start-btn" class="btn">START</button>
+        </section>
+        <section class="instructions">
+            <button id="instruct-btn" class="btn">Instructions</button>
+        </section>
+        <!-- Results announcer -->
+        <section class="result-announcer">Welcome! Please press Start Button</section>
+
+        <!-- Machine box -->
+        <section id="machine-section">
+
+            <div id="machine">
+                <div class="reels">
+                    <img src="https://media.giphy.com/media/3ornjJ69t2jJ0AqXRe/giphy.gif" alt="img" id="reel1">
+                </div>
+                <div class="reels">
+                    <img src="https://media.giphy.com/media/3ornjJ69t2jJ0AqXRe/giphy.gif" alt="img" id="reel2">
+                </div>
+                <div class="reels">
+                    <img src="https://media.giphy.com/media/3ornjJ69t2jJ0AqXRe/giphy.gif" id="reel3">
+                </div>
+            </div>
+            <div class="total-points-and-btn">
+                <div id="total-points">0</div>
+
+                <div class="play-btn">
+                    <button id="play-btn" disabled>PLAY</button>
+                </div>
+            </div>
+        </section>
+
+    </main>
+    <script src="script/main.js"></script>
+</body>
+
+</html>
