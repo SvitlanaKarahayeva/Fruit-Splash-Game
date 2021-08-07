@@ -42,7 +42,7 @@ The infomation dispaly guides the player on the next steps and the game results.
   * Javascript
   * DOM
     
-  #### Please click here to playe and Good Luck!- [FRUIT SPLASH](https://svitlanakarahayeva.github.io/Fruit-Splash-Game/)
+  #### Please click here to play and Good Luck!- [FRUIT SPLASH](https://svitlanakarahayeva.github.io/Fruit-Splash-Game/)
   
   ## Future enhancements:
   
