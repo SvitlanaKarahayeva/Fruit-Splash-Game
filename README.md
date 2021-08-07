@@ -30,8 +30,8 @@ The infomation dispaly guides the player on the next steps and the game results.
   ![](https://i.imgur.com/PyEHp9V.png)
 
   <img src="https://i.imgur.com/WARh7Ns.png" width="450" height="450"> <img src="https://i.imgur.com/mcFAIjF.png" width="450" height="450">
-  >
-<img src="https://i.imgur.com/akJjBCx.png" width=300" height="300"> <img src="https://i.imgur.com/jFlJDFB.png" width="300" height="300"> <img src="https://i.imgur.com/3m5PrZD.png" width="300" height="300">
+  
+<img src="ttps://i.imgur.com/akJjBCx.png" width="300" height="300"> <img src="https://i.imgur.com/jFlJDFB.png" width="300" height="300"> <img src="https://i.imgur.com/3m5PrZD.png" width="300" height="300">
  
   
   ## Technologies Used:
