@@ -1,6 +1,6 @@
 # Fruit Splash Game  
 
-Fruit Slash is a fun slot machine browser-based game that is designed to test your luck.  
+Fruit Splash is a fun slot machine browser-based game that is designed to test your luck.  
 It will be definitely a color therapy session :rainbow: for you, that will make you smile with fruity images and entertaining sound effects.
 
 ## Quick history fact  
@@ -10,11 +10,12 @@ Pioneered by Charles Fey, his device, known as the Liberty Bell, features the fa
 
 ## Why did I choose to make the game?  
 
-I wanted to make something fun, entertaining and colorful for my ten-year old niece **_Sabrina_** :princess: :gift_heart:  
+I wanted to make something fun, entertaining and colorful for my ten-year old niece **_Sabrina_** :princess: :gift_heart:
+And of course - to excercise my coding skills.
 
 ## Fruity instruction and rules
 >
-It is a one-line slot machine, has 8 images that help player either win or lose. 6 types of Fruits :strawberry: :pineapple: :lemon: :watermelon: :tangerine::pear: will be playing in both cases, however **Treasure box** - is only for wins and **Unlucky Dollar Sign**- for losing combinations.
+One-line slot machine has 8 images that help player either win or lose. 6 types of Fruits :strawberry: :pineapple: :lemon: :watermelon: :tangerine::pear: will be playing in both cases, however **Treasure box** - is only for wins and **Unlucky Dollar Sign**- for losing combinations.
 The game has instructions that clearly illustrate the winning and losing combinations as well as Jackpot and Game Over matches.
 The infomation dispaly guides the player on the next steps and the game results.
   1. The Game starts with granting Player 25 points. Each play costs 1 point
@@ -23,7 +24,7 @@ The infomation dispaly guides the player on the next steps and the game results.
   4. The Game ends if Player gets Jackpot, Game Over combination, or runs out of points.
   5. Winning combinations help Player to win 5, 10 or 15 points and increase the total score.
   6. Losing combinations deduct 2 or 5 points from the score.
-  7. At any point of the game Player can restart it and update the score with 25 points.
+  7. Player can restart the game and update the score with 25 points anytime.
   
   # Below are some images of The Game in action:  
   
