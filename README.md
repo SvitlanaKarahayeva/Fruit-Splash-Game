@@ -10,12 +10,12 @@ Pioneered by Charles Fey, his device, known as the Liberty Bell, features the fa
 
 ## Why did I choose to make the game?  
 
-I wanted to make something fun, entertaining and colorful for my ten-year old niece **_Sabrina_** :princess: :gift_heart:
+I wanted to make something fun, entertaining and colorful for my ten-year old niece **_Sabrina_** :princess: :gift_heart:  
 And of course - to excercise my coding skills.
 
 ## Fruity instruction and rules
 >
-One-line slot machine has 8 images that help player either win or lose. 6 types of Fruits :strawberry: :pineapple: :lemon: :watermelon: :tangerine::pear: will be playing in both cases, however **Treasure box** - is only for wins and **Unlucky Dollar Sign**- for losing combinations.
+One-line slot machine has 8 images that help player either win or lose. 6 types of Fruits :strawberry: :pineapple: :lemon: :watermelon: :tangerine::pear:  will be playing in both cases, however **Treasure box** - is only for wins and **Unlucky Dollar Sign**- for losing combinations.
 The game has instructions that clearly illustrate the winning and losing combinations as well as Jackpot and Game Over matches.
 The infomation dispaly guides the player on the next steps and the game results.
   1. The Game starts with granting Player 25 points. Each play costs 1 point
