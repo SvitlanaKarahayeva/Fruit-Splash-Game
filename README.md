@@ -21,7 +21,7 @@ The infomation dispaly guides the player on the next steps and the game results.
   2. Then Player is instructed to learn and review about the posible matches of Fruits, Tresure box and Dollar Sign.
   3. Once the Play button is activated that's when the fun part starts - the player starts spinning reels.
   4. The Game ends if Player gets Jackpot, Game Over combination, or runs out of points.
-  5. Winning combinations help Player to win 5, 10 or 15 points to the total score.
+  5. Winning combinations help Player to win 5, 10 or 15 points and increase the total score.
   6. Losing combinations deduct 2 or 5 points from the score.
   7. At any point of the game Player can restart it and update the score with 25 points.
   
