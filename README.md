@@ -1,6 +1,6 @@
 #Fruit Splash Game  
 
-Fruit Slash game is a fun slot machine browser based game that is designed for fun time-spending.  
+Fruit Slash game is a fun slot machine browser based game that is designed for fun time-spending and testing your luck.  
 It will definitely be a color therapy session for you, that will make you smile with fruity images and entertaining sound effects
 
 ##Quick history fact  
@@ -10,7 +10,7 @@ Pioneered by Charles Fey, his device, known as the Liberty Bell, features the fa
 
 ##Why did I choose to make the game?  
 
-I wanted to make something fun, entertaining and colirful for my ten-year old niece Sabrina:)  
+I wanted to make something fun, entertaining and colorful for my ten-year old niece Sabrina:)  
 
 ## Fruity instruction and rules
 >
@@ -30,9 +30,22 @@ The infomation dispaly guides the player on the next steps and the game results.
   ![](https://i.imgur.com/PyEHp9V.png)
    
   >
-  !(https://imgur.com/WARh7Ns)
+  ![](https://i.imgur.com/WARh7Ns.png)
   >
-  !(https://imgur.com/mcFAIjF)
+  ![](https://i.imgur.com/mcFAIjF.png)
   >
-  !(https://imgur.com/akJjBCx) !(https://imgur.com/jFlJDFB) !(https://imgur.com/3m5PrZD)
+  ![](https://i.imgur.com/akJjBCx.png) ![](https://i.imgur.com/jFlJDFB.png) ![](https://i.imgur.com/3m5PrZD.png)
+  
+  ## Technologies Used:
+    * HTML
+    * CSS
+    * Javascript
+    * DOM
+    
+  #### Please click here for your fruits and Good Luck!- [FRUIT SPLASH](https://svitlanakarahayeva.github.io/Fruit-Splash-Game/)
+  
+  ## Future enhancements:
+    * Animation effects for Jackpot and Game Over 
+    * Expand to 3-row slots with more win and lose combos
+    * Mobile-friendly User Interface
   
