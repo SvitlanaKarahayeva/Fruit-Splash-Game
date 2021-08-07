@@ -31,19 +31,19 @@ The infomation dispaly guides the player on the next steps and the game results.
 
   <img src="https://i.imgur.com/WARh7Ns.png" width="450" height="450"> <img src="https://i.imgur.com/mcFAIjF.png" width="450" height="450">
   
-<img src="ttps://i.imgur.com/akJjBCx.png" width="300" height="300"> <img src="https://i.imgur.com/jFlJDFB.png" width="300" height="300"> <img src="https://i.imgur.com/3m5PrZD.png" width="300" height="300">
+<img src="https://i.imgur.com/akJjBCx.png" width="300" height="300"> <img src="https://i.imgur.com/jFlJDFB.png" width="300" height="300"> <img src="https://i.imgur.com/3m5PrZD.png" width="300" height="300">
  
   
   ## Technologies Used:
-    *HTML
-    *CSS
-    *Javascript
-    *DOM
+    * HTML
+    * CSS
+    * Javascript
+    * DOM
     
   #### Please click here for your fruits and Good Luck!- [FRUIT SPLASH](https://svitlanakarahayeva.github.io/Fruit-Splash-Game/)
   
   ## Future enhancements:
-    *Animation effects for Jackpot and Game Over 
-    *Expand to 3-row slots with more win and lose combos
-    *Mobile-friendly User Interface
+    * Animation effects for Jackpot and Game Over 
+    * Expand to 3-row slots with more win and lose combos
+    * Mobile-friendly User Interface
   
