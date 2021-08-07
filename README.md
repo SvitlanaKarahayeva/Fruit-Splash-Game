@@ -30,12 +30,10 @@ The infomation dispaly guides the player on the next steps and the game results.
   ![](https://i.imgur.com/PyEHp9V.png)
    
 
-  <img src="https://i.imgur.com/WARh7Ns.png" width="100" height="100">
-<!--   ![](https://i.imgur.com/WARh7Ns.png width 250) -->
+  <img src="https://i.imgur.com/WARh7Ns.png" width="500" height="600"> <img src="https://i.imgur.com/mcFAIjF.png" width="500" height="600">
   >
-  ![](https://i.imgur.com/mcFAIjF.png =250x250)
-  >
-  ![](https://i.imgur.com/akJjBCx.png =250x250) ![](https://i.imgur.com/jFlJDFB.png =250x250) ![](https://i.imgur.com/3m5PrZD.png =250x250)
+<img src="https://i.imgur.com/akJjBCx.png" width="500" height="600"> <img src="https://i.imgur.com/jFlJDFB.png" width="500" height="600"> <img src="ttps://i.imgur.com/3m5PrZD.png" width="500" height="600">
+ 
   
   ## Technologies Used:
     * HTML
