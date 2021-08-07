@@ -1,7 +1,7 @@
 # Fruit Splash Game  
 
 Fruit Slash game is a fun slot machine browser based game that is designed to test your luck.  
-It will be definitely a color therapy session for you, that will make you smile with fruity images and entertaining sound effects.
+It will be definitely a color therapy session :rainbow: for you, that will make you smile with fruity images and entertaining sound effects.
 
 ## Quick history fact  
 >
@@ -10,7 +10,7 @@ Pioneered by Charles Fey, his device, known as the Liberty Bell, features the fa
 
 ## Why did I choose to make the game?  
 
-I wanted to make something fun, entertaining and colorful for my ten-year old niece Sabrina :gift_heart:  
+I wanted to make something fun, entertaining and colorful for my ten-year old niece **_Sabrina_** :princess: :gift_heart:  
 
 ## Fruity instruction and rules
 >
@@ -29,8 +29,9 @@ The infomation dispaly guides the player on the next steps and the game results.
   
   ![](https://i.imgur.com/PyEHp9V.png)
    
-  >
-  ![](https://i.imgur.com/WARh7Ns.png =250x250)
+
+  <img src="https://i.imgur.com/WARh7Ns.png" width="100" height="100">
+<!--   ![](https://i.imgur.com/WARh7Ns.png width 250) -->
   >
   ![](https://i.imgur.com/mcFAIjF.png =250x250)
   >
