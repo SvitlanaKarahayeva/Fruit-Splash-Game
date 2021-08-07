@@ -25,7 +25,7 @@ The infomation dispaly guides the player on the next steps and the game results.
   6. Losing combinations deduct 2 or 5 points from the score.
   7. At any point of the game Player can restart it and update the score with 25 points.
   
-  Below are some images of The Game in action:  
+  # Below are some images of The Game in action:  
   
   ![](https://i.imgur.com/PyEHp9V.png)
 
@@ -35,15 +35,17 @@ The infomation dispaly guides the player on the next steps and the game results.
  
   
   ## Technologies Used:
-    * HTML
-    * CSS
-    * Javascript
-    * DOM
+  
+  * HTML
+  * CSS
+  * Javascript
+  * DOM
     
-  #### Please click here for your fruits and Good Luck!- [FRUIT SPLASH](https://svitlanakarahayeva.github.io/Fruit-Splash-Game/)
+  #### Please click here to playe and Good Luck!- ### [FRUIT SPLASH](https://svitlanakarahayeva.github.io/Fruit-Splash-Game/)
   
   ## Future enhancements:
-    * Animation effects for Jackpot and Game Over 
-    * Expand to 3-row slots with more win and lose combos
-    * Mobile-friendly User Interface
+  
+  * Animation effects for Jackpot and Game Over 
+  * Expand to 3-row slots with more win and lose combos
+  * Mobile-friendly User Interface
   
