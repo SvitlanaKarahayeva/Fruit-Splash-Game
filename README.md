@@ -1,6 +1,6 @@
 # Fruit Splash Game  
 
-Fruit Slash game is a fun slot machine browser based game that is designed to test your luck.  
+Fruit Slash is a fun slot machine browser-based game that is designed to test your luck.  
 It will be definitely a color therapy session :rainbow: for you, that will make you smile with fruity images and entertaining sound effects.
 
 ## Quick history fact  
