@@ -19,7 +19,7 @@ One-line slot machine has 8 images that help player either win or lose. 6 types 
 The game has instructions that clearly illustrate the winning and losing combinations as well as Jackpot and Game Over matches.
 The infomation dispaly guides the player on the next steps and the game results.
   1. The Game starts with granting Player 25 points. Each play costs 1 point
-  2. Then Player is instructed to learn and review about the posible matches of Fruits, Tresure box and Dollar Sign.
+  2. Then Player is instructed to learn and review about the possible matches of Fruits, Tresure box and Dollar Sign.
   3. Once the Play button is activated that's when the fun part starts - the player starts spinning reels.
   4. The Game ends if Player gets Jackpot, Game Over combination, or runs out of points.
   5. Winning combinations help Player to win 5, 10 or 15 points and increase the total score.
