@@ -15,7 +15,8 @@ And of course - to excercise my coding skills.
 
 ## Fruity instruction and rules
 >
-One-line slot machine has 8 images that help player either win or lose. 6 types of Fruits :strawberry: :pineapple: :lemon: :watermelon: :tangerine::pear:  will be playing in both cases, however **Treasure box** - is only for wins and **Unlucky Dollar Sign**- for losing combinations.
+One-line slot machine has 8 images that help player either win or lose. 6 types of Fruits :strawberry: :pineapple: :lemon: :watermelon: :tangerine::pear:  
+will be playing in both cases, however **Treasure box** - is only for wins and **Unlucky Dollar Sign**- for losing combinations.
 The game has instructions that clearly illustrate the winning and losing combinations as well as Jackpot and Game Over matches.
 The infomation display guides the player on the next steps and the game results.
   1. The Game starts with granting Player 25 points. Each play costs 1 point
@@ -30,7 +31,7 @@ The infomation display guides the player on the next steps and the game results.
   
   ![](https://i.imgur.com/PyEHp9V.png)
 
-  <img src="https://i.imgur.com/WARh7Ns.png" width="400" height="450"> <img src="https://i.imgur.com/mcFAIjF.png" width="400" height="450">
+  <img src="https://i.imgur.com/WARh7Ns.png" width="420" height="450"> <img src="https://i.imgur.com/mcFAIjF.png" width="420" height="450">
   
 <img src="https://i.imgur.com/akJjBCx.png" width="300" height="300"> <img src="https://i.imgur.com/jFlJDFB.png" width="300" height="300"> <img src="https://i.imgur.com/3m5PrZD.png" width="300" height="300">
  
