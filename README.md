@@ -1,4 +1,4 @@
-# Fruit Splash Game  
+# [FRUIT SPLASH](https://svitlanakarahayeva.github.io/Fruit-Splash-Game/)  
 
 Fruit Splash is a fun slot machine browser-based game that is designed to test your luck.  
 It will be definitely a color therapy session :rainbow: for you, that will make you smile with fruity images and entertaining sound effects.
@@ -41,7 +41,6 @@ The infomation display guides the player on the next steps and the game results.
   * HTML
   * CSS
   * Javascript
-  * DOM
     
   #### Please click here to play and Good Luck!- [FRUIT SPLASH](https://svitlanakarahayeva.github.io/Fruit-Splash-Game/)
   
